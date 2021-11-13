@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\santi\Documents\IMCc\IMCc\main.c(16,13): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\santi\Documents\IMCc\IMCc\main.c(23,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  IMCc.vcxproj -> C:\Users\santi\Documents\IMCc\x64\Debug\IMCc.exe
